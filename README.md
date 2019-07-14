@@ -1,2 +1,2 @@
-# torchnlp
+# DSA
 Data Structure & Algorithms
